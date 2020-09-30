@@ -1,3 +1,5 @@
+require 'pry'
+
 class Song
 @@count = 0
 @@artists = []
@@ -25,4 +27,5 @@ end
 
 
 end
+
 binding.pry
