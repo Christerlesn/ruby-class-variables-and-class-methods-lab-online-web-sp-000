@@ -24,6 +24,5 @@ end
 
 
 
-
-
 end
+binding.pry 
